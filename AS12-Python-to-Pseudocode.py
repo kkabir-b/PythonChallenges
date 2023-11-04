@@ -2,7 +2,7 @@ file = open('input.txt','r')
 lines = file.readlines()
 
 fileClear = open('output.txt','w')
-fileClear.write('')
+fileClear.write('') #used to clear the output from last use
 fileClear.close()
 
 fileOutput = open('output.txt','a')
