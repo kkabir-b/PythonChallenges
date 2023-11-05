@@ -1,5 +1,5 @@
-lst=[1,2,4,3,5,3,4,5,6,7,8,9,6,4]
-item=-1
+lst=[1,2,4,3,5,3,4,5,6,7,8,9,6,4] #unsorted list as it doesn't need to be sorted for linear search
+item=-1 
 q=False
 s=0
 for i in lst:
@@ -9,4 +9,4 @@ for i in lst:
     print(s)
     break
   s+=1
-if not(q):print('Not found it')
+if not(q):print('Not found it') 
