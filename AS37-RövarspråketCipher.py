@@ -5,6 +5,6 @@ def encode(word):
     if i.lower() not in vowel and i!=' ':
       return_str+=i+'o'+i
     else:
-      return_str+=i
+      return_str+=i 
   print(return_str)
 encode('Hello world')
