@@ -1,6 +1,6 @@
 import turtle
 
-def box(median,uq,lq,maxx,minn):
+def box(median,uq,lq,maxx,minn): #uses maxx with 2 xs to not overwrite the built in function
   
   t=turtle.Turtle()
   t.speed(0)
