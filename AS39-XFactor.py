@@ -1,4 +1,4 @@
-import random
+import random 
 lst=[[],[],[],[],[],[],[],[],[],[]]
 x=0
 for i in lst:
