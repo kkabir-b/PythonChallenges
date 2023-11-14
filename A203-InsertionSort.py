@@ -5,7 +5,7 @@ def insertionSort(l):
     j = i - 1
 
     while j>=0 and curr < l[j]:
-      l[j + 1] = l[j]
+      l[j + 1] = l[j] 
       j -= 1
       
     l[j + 1] = curr
