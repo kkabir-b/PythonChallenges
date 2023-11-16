@@ -7,6 +7,6 @@ for i in lst:
     print('Found it')
     q=True
     print(s)
-    break
+    break 
   s+=1
 if not(q):print('Not found it') 
