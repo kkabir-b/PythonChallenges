@@ -2,7 +2,7 @@ import random
 lst=[[],[],[],[],[],[],[],[],[],[]]
 x=0
 for i in lst:
-  x+=1
+  x+=1 
   for y in range(1,11):
     i.append(('Song'+str(y)+' '+'Artist'+str(x)))
 
