@@ -4,7 +4,7 @@ lst_2=['HELLO','NUMBER','NOPE','WHY','MALES','BYE']
 for i in lst:
   print(i)
 word=random.choice(lst_2) 
-c=0
+c=0 
 
 got=False
 while c<5 and got!=True:
