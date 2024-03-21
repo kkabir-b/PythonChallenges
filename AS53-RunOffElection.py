@@ -2,7 +2,7 @@ master = [['a','b','c'],['a','b','c'],['b','c','a'],['b','c','a'],['c','b','a']]
 
 
 
-numA = 0
+numA = 0 
 numB = 0
 numC = 0
 for i in master:
