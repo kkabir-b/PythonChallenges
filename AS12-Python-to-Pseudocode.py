@@ -1,5 +1,5 @@
 file = open('input.txt','r')
-lines = file.readlines()
+lines = file.readlines() 
 
 fileClear = open('output.txt','w')
 fileClear.write('') #used to clear the output from last use
