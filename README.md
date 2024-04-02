@@ -1,2 +1,2 @@
 # PythonChallenges
-PythonChallenges from GIS
+Python Challenges from GIS
